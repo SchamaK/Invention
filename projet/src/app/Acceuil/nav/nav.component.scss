@@ -5,3 +5,12 @@
 a:hover {
   color: white;
 }
+
+#navbar {
+  position: fixed;
+  top: 0%;
+  transition: 0.8s;
+  background: #3f51b5;
+  color: #fff;
+  width: 100%
+}
